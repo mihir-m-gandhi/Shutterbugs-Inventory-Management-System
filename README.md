@@ -1,6 +1,6 @@
-
+<p>
   <a href="" rel="noopener">
- <img height=200px src="https://i.imgur.com/QEcBZSh.png" alt="Briefly-logo"></a>
+ <img height=200px src="./logo.png" alt="Shutterbugs-logo"></a>
 </p>
 
 <h1 align="center">Drive Cli</h1>
