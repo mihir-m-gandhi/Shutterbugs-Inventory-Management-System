@@ -669,12 +669,13 @@ public class SB extends JFrame implements ActionListener{
 				Entry f=(Entry)v.get(j);
 				if(f.getName().equalsIgnoreCase(str2)||f.getCamera().equalsIgnoreCase(str3)||f.getLens().equalsIgnoreCase(str4)||f.getEvent().equalsIgnoreCase(str5))
 				{
-					result.setText("Name: "+ f.getName() + "  Camera: "+f.getCamera() + "  Lens: "+f.getLens() + "  Tripod: "+f.getTripod() + "  Card: "+f.getCard() +"  Event:"+ f.getEvent()+"  Status:"+ f.getStatus()+ "  Comment:"+f.getComment());
+					result.setText("Name: "+ f.getName() + "  Camera: "+f.getCamera() + "  Lens: "+f.getLens() + "  Tripod: "+f.getTripod() + "  Card: "+f.getCard() +"  Event: "+ f.getEvent()+"  Status: "+ f.getStatus()+ "  Comment: "+f.getComment() +"\r");
+					
 					break;
 				}
 				else
 				{
-					result.setText("Available");
+					result.setText("Status: Available");
 				}
 			}
 			sbyname.setText("");
@@ -708,7 +709,7 @@ public class SB extends JFrame implements ActionListener{
 				}
 				else
 				{
-					returned.setText("Bhai naam to sahi daal...");
+					returned.setText("Invalid input");
 					namet2.setText("");
 					commentt.setText("");
 				}
