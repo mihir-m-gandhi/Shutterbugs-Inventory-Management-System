@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <a href="" rel="noopener">
  <img height=200px src="./logo.png" alt="Shutterbugs-logo"></a>
 </p>
@@ -7,9 +7,6 @@
 
 <div align="center">
 
-[![PyPI version](https://badge.fury.io/py/drive-cli.svg)](https://badge.fury.io/py/drive-cli)
-[![Python version](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org/download/releases/3.4.0/)
-[![Build Status](https://travis-ci.org/nurdtechie98/drive-cli.svg?branch=dev)](https://travis-ci.org/nurdtechie98/drive-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <h4> This project was developed to ensure efficient and seamless management of camera equipment exchanged among the members of <strong>Team Shutterbugs</strong> during college festivals. </h4>
