@@ -31,7 +31,7 @@
 ------------------------------------------
 ### Demo
 <p align="center">
-    <img src="./Demo.gif">
+    <img src="./Demo.mp4">
 </p>
 
 ------------------------------------------
@@ -42,9 +42,9 @@ Your system needs to have Java installed. Refer [this](https://www.javatpoint.co
 ### Installation
 
 1. Download and extract the contents of the repository. 
-2. In the folder where the file 'SB.java' exists, hold shift and press right mouse button. Select 'open command prompt'.
-3. In command prompt, type ```javac SB.java``` to compile the program.
-4. Once it is compiled, type ```java SB``` to run the program.
+2. Open a command prompt/terminal and navigate to the folder containing the file 'SB.java'.
+3. In the command prompt/terminal, enter the command ```javac SB.java``` to compile the program.
+4. Once it is compiled, enter the command ```java SB``` to run the program.
 5. A window with "SHUTTERBUGS" written on top of it will open, indicating the program is now running.
 
 ------------------------------------------
