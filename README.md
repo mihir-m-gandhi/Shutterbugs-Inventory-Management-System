@@ -1,4 +1,4 @@
-<p>
+<p align="center>
   <a href="" rel="noopener">
  <img height=200px src="./logo.png" alt="Shutterbugs-logo"></a>
 </p>
