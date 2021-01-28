@@ -1,6 +1,0 @@
-Steps to run
-
-1. In the folder where the file exists, hold shift and right click mouse. Select 'open command prompt'.
-2. In command prompt, type "javac SB.java" to compile the program
-3. Once it is compiled, type "java SB" to run the program
-4. A window with "SHUTTERBUGS" written on top of it will open, indicating the program is running now
