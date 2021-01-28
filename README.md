@@ -3,7 +3,7 @@
  <img height=200px src="./logo.png" alt="Shutterbugs-logo"></a>
 </p>
 
-<h1 align="center">Drive Cli</h1>
+<h1 align="center">Inventory Management System for Team Shutterbugs</h1>
 
 <div align="center">
 
