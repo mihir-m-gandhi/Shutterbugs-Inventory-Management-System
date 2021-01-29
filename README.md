@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 <h4> This project was developed to ensure efficient and seamless management of camera equipment exchanged among the members of <strong>Team Shutterbugs</strong> during college festivals. </h4>
 
