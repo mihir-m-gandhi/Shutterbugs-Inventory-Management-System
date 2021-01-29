@@ -34,8 +34,6 @@
   <img src="./Demo.gif">
 </p>
 
-
-
 ------------------------------------------
 ### Prerequisites
 Your system needs to have Java installed. Refer [this](https://www.javatpoint.com/javafx-how-to-install-java) to install Java. 
