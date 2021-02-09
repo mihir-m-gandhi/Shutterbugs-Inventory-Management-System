@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=200px src="./logo.png" alt="Shutterbugs-logo"></a>
+ <img height=200px src="./logo.png" alt="Shutterbugs-logo">
 </p>
 
 <h1 align="center">Inventory Management System for Team Shutterbugs</h1>
